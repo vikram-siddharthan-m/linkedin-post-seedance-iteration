@@ -18,19 +18,19 @@ India is one of the world’s most dynamic creative markets: multilingual, mobil
 
 Seedance 2.0 changes that.
 
-Built as a multimodal audio-video generative AI system that allows users to combine text, image, audio, and video inputs to generate new content faster and more consistent.
+Built to bring text, images, audio, and video into one workflow, making content creation faster and more consistent.
 
 With Seedance 2.0, teams can:
-• Combine multiple images, video clips, and audio inputs with natural-language prompts
-• Generate cinematic, multi-shot video with synchronised audio
-• Create more complex scenes with stronger motion realism and controllability
-• Edit and extend videos without rebuilding entire sequences
+- Combine multiple images, video clips, and audio inputs with natural-language prompts  
+- Generate cinematic, multi-shot video with synchronised audio  
+- Create more complex scenes with better control  
+- Edit and extend videos without rebuilding entire sequences  
 
-This opens up powerful use cases:
-• Launch-ready campaign creatives across regions
-• Localised storytelling for media, edtech, and entertainment
-• High-volume performance content for growth teams
-• Faster production cycles for agencies and startups
+This unlocks new possibilities:
+- Launch-ready campaign creatives across regions  
+- Localised storytelling for media, edtech, and entertainment  
+- High-volume performance content for growth teams  
+- Faster production cycles for agencies and startups  
 
 Paired with ElevenLabs’ voice infrastructure, this enables richer multimodal storytelling and more scalable localisation.
 
